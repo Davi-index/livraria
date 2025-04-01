@@ -23,15 +23,9 @@ O repositório está organizado da seguinte maneira:
 - `scripts/`: Scripts JavaScript que adicionam interatividade à aplicação.
 - `assets/`: Recursos adicionais como imagens e fontes.
 
-## Como Contribuir
+## Intuito
 
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch: `git checkout -b minha-nova-funcionalidade`.
-3. Faça suas alterações e commit: `git commit -m 'Adiciona nova funcionalidade'`.
-4. Envie para o repositório remoto: `git push origin minha-nova-funcionalidade`.
-5. Abra um Pull Request para revisão.
+O intuito da criação do repositório é para armazenar livros que já li e disponibilizar seus respectivos arquivos(Epub & PDF) para que outros que tem dificuldade de encontrar, também possam ter acesso a esses livros e conhecer melhor do meu gosto literário
 
 ## Contato
 
